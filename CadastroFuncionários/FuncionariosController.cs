@@ -22,9 +22,12 @@ namespace CadastroFuncionários
 
         // GET: api/Funcionarios
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Funcionario>>> GetFuncionario()
+        public async Task<ActionResult<ReturnFunc>> GetFuncionario()
         {
-            return await _context.Funcionario.ToListAsync();
+            ReturnFunc func = new ReturnFunc();
+            func.Funcionario = await _context.Funcionario.ToListAsync();
+            return func;
+
         }
 
         // GET: api/Funcionarios/5

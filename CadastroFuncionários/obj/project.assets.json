@@ -8825,11 +8825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Casa\\source\\repos\\CadastroFuncionários\\CadastroFuncionários\\CadastroFuncionários.csproj",
+      "projectUniqueName": "C:\\Users\\Casa\\source\\repos\\CadastroFuncionários2\\CadastroFuncionários\\CadastroFuncionários.csproj",
       "projectName": "CadastroFuncionários",
-      "projectPath": "C:\\Users\\Casa\\source\\repos\\CadastroFuncionários\\CadastroFuncionários\\CadastroFuncionários.csproj",
+      "projectPath": "C:\\Users\\Casa\\source\\repos\\CadastroFuncionários2\\CadastroFuncionários\\CadastroFuncionários.csproj",
       "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Casa\\source\\repos\\CadastroFuncionários\\CadastroFuncionários\\obj\\",
+      "outputPath": "C:\\Users\\Casa\\source\\repos\\CadastroFuncionários2\\CadastroFuncionários\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
